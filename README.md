@@ -21,11 +21,17 @@ This is a comprehensive data science project where I leveraged AWS SageMaker for
 ## 3 - Content
 
 1 - Importing Libraries
+
 2 - Loading Data
+
 3 - Data Summarization
+
 4 - Data Visualization
+
 5 - Data Preprocessing
+
 6 - Model Building & Deployment
+
 7 - Model Performance
 
 
